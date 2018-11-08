@@ -217,21 +217,27 @@ $(document).ready(function($) {
       newCircle.setAttribute('cx', xCords[i]);
       newCircle.setAttribute('cy', yCords[i]);
       newCircle.setAttribute('r', '1');
-      if(i === 994 || i === 1443 || i === 1604 || i === 5016 ) {
+      if(i === 2867 || i === 1700  || i === 4837 || i === 5016 || i === 5082 || i === 312 ) {
         var areaTitle;
       	newCircle.setAttribute('fill', '#c3d833');
         switch(i) {
-          case 994:
-            areaTitle = 'Markham, Ontario';
+          case 2867:
+            areaTitle = 'Lagos,Nigeria;
             break;
-          case 1443:
-            areaTitle = 'London, Storbritannien';
+          case 1700:
+            areaTitle = 'Berlin, Germany';
             break;
-          case 1604:
-            areaTitle = 'Göteborg, Sverige';
+          case 4837:
+            areaTitle = 'Hyderabad, India';
             break;
           case 5016:
             areaTitle = 'Thailand';
+            break;
+          case 5082:
+            areaTitle = 'South Korea';
+            break;
+          case 312:
+            areaTitle = 'San Francisco, United States';
             break;
         }
         newCircle.setAttribute('title', ''+areaTitle+'');
