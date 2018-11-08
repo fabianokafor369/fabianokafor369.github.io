@@ -222,7 +222,7 @@ $(document).ready(function($) {
       	newCircle.setAttribute('fill', '#c3d833');
         switch(i) {
           case 2867:
-            areaTitle = 'Lagos,Nigeria;
+            areaTitle = 'Lagos,Nigeria';
             break;
           case 1700:
             areaTitle = 'Berlin, Germany';
@@ -231,10 +231,10 @@ $(document).ready(function($) {
             areaTitle = 'Hyderabad, India';
             break;
           case 5016:
-            areaTitle = 'Thailand';
+            areaTitle = 'Bangkok, Thailand';
             break;
           case 5082:
-            areaTitle = 'South Korea';
+            areaTitle = 'Seoul, South Korea';
             break;
           case 312:
             areaTitle = 'San Francisco, United States';

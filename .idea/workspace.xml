@@ -90,16 +90,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog-single.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog-single.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="248" column="29" lean-forward="false" selection-start-line="248" selection-start-column="29" selection-end-line="248" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -126,11 +116,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="countries.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="808">
+              <caret line="249" column="5" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="249" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="8737" column="14" lean-forward="false" selection-start-line="8737" selection-start-column="10" selection-end-line="8737" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mapstyle.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/mapstyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="countries.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/countries.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1464">
-              <caret line="85" column="132" lean-forward="false" selection-start-line="85" selection-start-column="132" selection-end-line="85" selection-end-column="132" />
+            <state relative-caret-position="1938">
+              <caret line="184" column="38" lean-forward="true" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#svg#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -138,16 +158,6 @@
                 <element signature="e#7054#7060#0" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="241" column="9" lean-forward="false" selection-start-line="241" selection-start-column="9" selection-end-line="241" selection-end-column="9" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -161,16 +171,6 @@
                 <element signature="e#5877#5883#0" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -203,6 +203,9 @@
       <find>class=&quot;progress&quot;</find>
       <find>about</find>
       <find>beck</find>
+      <find>4</find>
+      <find>anim</find>
+      <find>$</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -617,22 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="8785" column="0" lean-forward="true" selection-start-line="8785" selection-start-column="0" selection-end-line="8785" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/mapstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -646,17 +633,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="127" column="29" lean-forward="false" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
-          <folding>
-            <element signature="e#5877#5883#0" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,10 +745,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="127" column="29" lean-forward="false" selection-start-line="127" selection-start-column="29" selection-end-line="127" selection-end-column="29" />
+          <folding>
+            <element signature="e#5877#5883#0" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="8737" column="14" lean-forward="false" selection-start-line="8737" selection-start-column="10" selection-end-line="8737" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="808">
+          <caret line="249" column="5" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="249" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mapstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/countries.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1464">
-          <caret line="85" column="132" lean-forward="false" selection-start-line="85" selection-start-column="132" selection-end-line="85" selection-end-column="132" />
+        <state relative-caret-position="1938">
+          <caret line="184" column="38" lean-forward="true" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#svg#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -780,14 +791,6 @@
             <element signature="e#7054#7060#0" expanded="true" />
             <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="241" column="9" lean-forward="false" selection-start-line="241" selection-start-column="9" selection-end-line="241" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
