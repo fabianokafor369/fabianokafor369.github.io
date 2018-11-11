@@ -1,24 +1,41 @@
-@import "bourbon";
-
 body {
   background-color: #000;
 }
 
-$portsgreen: #c1d72e;
-
-@include keyframes(blink) {
-		  0% {
-		    stroke: rgba($portsgreen, 0.8);
-		  	stroke-width: 1;
-		  } 
-		  100% {
-		    stroke: rgba($portsgreen, 0.1);
-		  	stroke-width: 15;
-		  }
-		}
-
+@-webkit-keyframes blink {
+  0% {
+    stroke: rgba(193, 215, 46, 0.8);
+    stroke-width: 1;
+  }
+  100% {
+    stroke: rgba(193, 215, 46, 0.1);
+    stroke-width: 20;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    stroke: rgba(193, 215, 46, 0.8);
+    stroke-width: 1;
+  }
+  100% {
+    stroke: rgba(193, 215, 46, 0.1);
+    stroke-width: 20;
+  }
+}
+@keyframes blink {
+  0% {
+    stroke: rgba(193, 215, 46, 0.8);
+    stroke-width: 1;
+  }
+  100% {
+    stroke: rgba(193, 215, 46, 0.1);
+    stroke-width: 20;
+  }
+}
 circle[fill="#c3d833"] {
   padding: 20px;
   position: relative;
-  @include animation(blink 1.5s infinite ease-out);
+  -webkit-animation: blink 1.5s infinite ease-out;
+  -moz-animation: blink 1.5s infinite ease-out;
+  animation: blink 1.5s infinite ease-out;
 }
