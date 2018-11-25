@@ -103,7 +103,7 @@ $(document).ready(function($) {
 					  {
 					    number: num,
 					    numberStep: comma_separator_number_step
-					  }, 3500
+					  }, 3000
 					);
 				});
 				
