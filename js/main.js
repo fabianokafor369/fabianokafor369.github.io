@@ -217,7 +217,7 @@ $(document).ready(function($) {
       newCircle.setAttribute('cx', xCords[i]);
       newCircle.setAttribute('cy', yCords[i]);
       newCircle.setAttribute('r', '1');
-      if(i === 2867 || i === 1700  || i === 4837 || i === 5016 || i === 5082 || i === 312 ) {
+      if(i === 2867 || i === 1700  || i === 4837 || i === 5016 || i === 5082 || i === 312 || i === 2561) {
         var areaTitle;
       	newCircle.setAttribute('fill', '#c3d833');
         switch(i) {
@@ -238,6 +238,9 @@ $(document).ready(function($) {
             break;
           case 312:
             areaTitle = 'San Francisco, United States';
+            break;
+           case 2561:
+            areaTitle = 'Buenos Aires, Argentina';
             break;
         }
         newCircle.setAttribute('title', ''+areaTitle+'');
