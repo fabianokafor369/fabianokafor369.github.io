@@ -7407,7 +7407,8 @@ h1, h2, h3, h4, h5,
         #colorlib-main-nav .colorlib-table .img {
           opacity: 1; } }
     #colorlib-main-nav .colorlib-table .colorlib-table-cell {
-      display: table-cell;
+      display: block;
+      margin-top: 6%;
       vertical-align: middle;
       position: relative; }
   #colorlib-main-nav .colorlib-nav-toggle {
@@ -7938,6 +7939,7 @@ header {
     width: 150px; }
 
 .progress-wrap {
+    width: inherit;
   margin-bottom: 30px; }
   .progress-wrap h4 {
     font-size: 20px;
